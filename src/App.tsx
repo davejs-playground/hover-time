@@ -1,6 +1,7 @@
 import React from 'react';
 
 import styled from 'styled-components';
+import Box from './components/Box';
 
 const Container = styled.div`
   display: grid;
@@ -10,7 +11,11 @@ const Container = styled.div`
 `;
 
 function App() {
-  return <Container>Hello</Container>;
+  return (
+    <Container>
+      <Box />
+    </Container>
+  );
 }
 
 export default App;
