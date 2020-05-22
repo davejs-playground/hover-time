@@ -11,6 +11,10 @@ body {
 /* Reset box sizing */
 :root {
   box-sizing: border-box;
+  --purple: #8659fc;
+  --gray: #f0f0f0;
+
+  background-color: var(--gray);
 }
 
 *,
