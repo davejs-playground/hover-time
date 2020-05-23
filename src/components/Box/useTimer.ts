@@ -7,9 +7,7 @@ export const useTimer = () => {
 
   // Start the timer
   const start = () => {
-    if (time === 0) {
-      setStartTime(Date.now());
-    }
+    setStartTime(Date.now() - time);
     setIsRunning(true);
   };
 
