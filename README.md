@@ -1,4 +1,4 @@
-<a href="https://www.loom.com/share/ff23acd21576443da1187e9d96825422"> <p>22 Hover Timer Code Walkthough</p> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ff23acd21576443da1187e9d96825422-with-play.gif"> </a>
+[<a href="https://www.loom.com/share/ff23acd21576443da1187e9d96825422"> <p>22 Hover Timer Code Walkthough</p> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ff23acd21576443da1187e9d96825422-with-play.gif"> </a>](https://github.com/davidleger95/hover-time)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
